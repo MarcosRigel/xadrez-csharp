@@ -37,7 +37,7 @@
             return movimentosPossiveis()[pos.linha, pos.coluna];
         }
 
-        public void incrementarQtdMoviemntos()
+        public void incrementarQtdMovimentos()
         {
             qteMovimentos++; 
         }
